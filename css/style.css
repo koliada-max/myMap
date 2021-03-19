@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mapid { 
+    width: 85%;
+    margin: 25 auto;
+    height: 85vh; 
+}
